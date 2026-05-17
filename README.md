@@ -34,7 +34,9 @@ budget allocations across departments and divisions using Excel and Power BI.
 - Interactive slicer for filtering by division
 
 ## Screenshots
-[Add your screenshots here]
+<img width="1536" height="864" alt="power bi chicago budget dashboard" src="https://github.com/user-attachments/assets/9f95ba7a-d341-4c56-8ec8-860af463f3e1" />
+<img width="2545" height="1160" alt="Excel Chicago Budget Dashboard" src="https://github.com/user-attachments/assets/4284856f-9df5-43c8-8422-68ff7f2ba626" />
+
 
 ## How to View
 - Excel: Download the .xlsx file and open in Excel
